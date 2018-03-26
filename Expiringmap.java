@@ -2,6 +2,8 @@ package test;
 
 import java.util.HashMap;
 
+//This is simple version
+
 //给一个expiring map， 你可以一直往里面put东西，这些东西都有个过期值，一旦过期就get不到了。
 //put(null, null, 2000);
 
